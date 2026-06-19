@@ -1,0 +1,4 @@
+experiment,map,ndcg_cut_10,recall_1000
+baseline_original,0.3013,0.5058,0.7501
+baseline_hypothesis_only,0.3269,0.5475,0.7377
+baseline_exp4fuse,0.3208,0.5424,0.7756

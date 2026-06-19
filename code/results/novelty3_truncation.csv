@@ -1,0 +1,4 @@
+experiment,truncation,map,ndcg_cut_10,recall_1000,fused_run
+nov3_full,full,0.3208,0.5424,0.7756,/home/anush/Coding/SSD/Exp4Fuse/runs/nov3_fused_full
+nov3_trunc64,trunc64,0.3208,0.5424,0.7756,/home/anush/Coding/SSD/Exp4Fuse/runs/nov3_fused_trunc64
+nov3_trunc96,trunc96,0.3208,0.5424,0.7756,/home/anush/Coding/SSD/Exp4Fuse/runs/nov3_fused_trunc96

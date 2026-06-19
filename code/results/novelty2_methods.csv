@@ -1,0 +1,5 @@
+experiment,method,alpha,map,ndcg_cut_10,recall_1000,fused_run
+nov2_modified_rrf,modified_rrf,,0.3208,0.5424,0.7756,/home/anush/Coding/SSD/Exp4Fuse/runs/nov2_modified_rrf
+nov2_standard_rrf,standard_rrf,,0.3206,0.5424,0.7756,/home/anush/Coding/SSD/Exp4Fuse/runs/nov2_standard_rrf
+nov2_score_linear_a0.5,score_linear,0.5,0.3309,0.5626,0.7765,/home/anush/Coding/SSD/Exp4Fuse/runs/nov2_score_linear_a0.5
+nov2_comb_sum,comb_sum,,0.3309,0.5626,0.7765,/home/anush/Coding/SSD/Exp4Fuse/runs/nov2_comb_sum

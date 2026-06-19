@@ -1,0 +1,13 @@
+experiment,lambda,k,w1,w2,map,ndcg_cut_10,recall_1000,original_run,fused_run
+nov1_fused_l4_k30_w1.0_1.0,4,30,1.0,1.0,0.333,0.5519,0.7855,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l4_k30_w1.0_1.0
+nov1_fused_l4_k30_w1.2_0.8,4,30,1.2,0.8,0.3283,0.5502,0.7853,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l4_k30_w1.2_0.8
+nov1_fused_l4_k60_w1.0_1.0,4,60,1.0,1.0,0.3322,0.5526,0.7855,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l4_k60_w1.0_1.0
+nov1_fused_l4_k60_w1.2_0.8,4,60,1.2,0.8,0.3272,0.5535,0.7848,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l4_k60_w1.2_0.8
+nov1_fused_l5_k30_w1.0_1.0,5,30,1.0,1.0,0.3227,0.5427,0.7756,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l5_k30_w1.0_1.0
+nov1_fused_l5_k30_w1.2_0.8,5,30,1.2,0.8,0.3193,0.5414,0.7784,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l5_k30_w1.2_0.8
+nov1_fused_l5_k60_w1.0_1.0,5,60,1.0,1.0,0.3208,0.5424,0.7756,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l5_k60_w1.0_1.0
+nov1_fused_l5_k60_w1.2_0.8,5,60,1.2,0.8,0.3183,0.5438,0.7784,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l5_k60_w1.2_0.8
+nov1_fused_l6_k30_w1.0_1.0,6,30,1.0,1.0,0.3153,0.5389,0.769,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l6_k30_w1.0_1.0
+nov1_fused_l6_k30_w1.2_0.8,6,30,1.2,0.8,0.3126,0.5316,0.7717,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l6_k30_w1.2_0.8
+nov1_fused_l6_k60_w1.0_1.0,6,60,1.0,1.0,0.314,0.5364,0.769,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l6_k60_w1.0_1.0
+nov1_fused_l6_k60_w1.2_0.8,6,60,1.2,0.8,0.3112,0.5314,0.7727,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_original,/home/anush/Coding/SSD/Exp4Fuse/runs/nov1_fused_l6_k60_w1.2_0.8
